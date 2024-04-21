@@ -9,7 +9,9 @@ def FindLargest(num1, num2, num3):
         return num3
 
 def main():
-    st.title("TDS Graded Assignment Wk8 : Find the Largest Among Three Numbers")
+    st.title("TDS Graded Assignment Week 8 : Find the Largest Among Three Numbers")
+    st.title("Aditya Jaiswal 22f3002960")
+
     st.write("Enter three numbers.")
 
     num1 = st.number_input("First number:", step=1.0)
